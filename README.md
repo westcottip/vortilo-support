@@ -1,6 +1,6 @@
 # Vortilo Support
 
-Vortilo is a fast, offline Esperanto-English dictionary for iOS.
+[Vortilo](https://apps.apple.com/us/app/vortilo/id6757718160) is a fast, offline Esperanto-English dictionary for iOS.
 
 ## Features
 
@@ -15,7 +15,7 @@ Vortilo is a fast, offline Esperanto-English dictionary for iOS.
 ## FAQ
 
 **How do I type Esperanto characters?**
-Just type using X-system (cx, sx, gx, etc.) and Vortilo converts automatically.
+Just type using X-system (cx, sx, gx, etc.) and [Vortilo](https://apps.apple.com/us/app/vortilo/id6757718160) converts automatically.
 
 **Does the app require internet?**
 No. All dictionary data is stored locally.
